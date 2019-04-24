@@ -1,0 +1,17 @@
+# python - keras - tensorflow - jupyter - numpy
+
+# esempio MLP multistrato
+- esempio del seno
+- esercizi semplici
+- regolarizzazione minmax
++ what happens when we go out of the borders?
+
+# esempio implementazione CNN
+- qualche esempio semplice, riparazione di sequenze di colori
+- qualche applicazione nella medicina genomica con predizione delle regioni regolatorie attive (AE-vs-AP)
+- esercizi semplici
+
+# Esempi "teorici" di model selection e ricerca bayesiana
+
+# fare repo github con tutto il materiale per il 30 aprile
+
