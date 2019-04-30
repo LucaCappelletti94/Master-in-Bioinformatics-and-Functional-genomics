@@ -1,4 +1,6 @@
-# python - keras - tensorflow - jupyter - numpy
+# Master in Bioinformatics and Functional genomics
+
+# python - keras - tensorflow - jupyter - numpy - sklearn - matplotlib - tqdm - keras_tqdm
 
 # esempio MLP multistrato
 - esempio del seno
@@ -15,3 +17,12 @@
 
 # fare repo github con tutto il materiale per il 30 aprile
 
+
+# Lezioni
+- 6 maggio - 1:30 spiego MLP
+- 7 maggio - 1:30 esercizi su MLP
+- 13 maggio - 1:30 spiego CNN
+- 14 maggio - 1:30 esercizi su CNN
+- 20 maggio - 1:30 spiego AP vs AE (Applicazione MLP su variabili celluari e CNN su dati di sequenza)
+- 21 maggio - 1:30 spiego IP vs IE (Applicazione MLP)
+- 27 maggio - 1:30 spiego IP vs IE (Applicazione CNN)
