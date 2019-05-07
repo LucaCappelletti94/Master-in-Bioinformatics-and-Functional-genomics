@@ -7,3 +7,4 @@ tqdm
 keras-tqdm
 matplotlib
 jupyter
+plot_keras_history
