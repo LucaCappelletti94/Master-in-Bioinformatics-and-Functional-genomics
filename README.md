@@ -10,13 +10,13 @@ To setup everything needed for the lessons, once you have python and git install
 ```
 
 ## Lessons
-### 1 - 7/05/2019 - Lesson on MLP
+### [1 - 7/05/2019 - Lesson on MLP](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/1%20-%207:05:2019%20-%20Lesson%20on%20MLP/Lesson%20on%20MLP.ipynb)
 #### Summary
-In [this lesson](), we will learn how to use a multi-layer perceptron to predict the values of an arbitraty *unknown* function.
+In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/1%20-%207:05:2019%20-%20Lesson%20on%20MLP/Lesson%20on%20MLP.ipynb), we will learn how to use a multi-layer perceptron to predict the values of an arbitraty *unknown* function.
 
-### 2 - 13/05/2019 - Practice on MLP
+### [2 - 13/05/2019 - Practice on MLP](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/2%20-%2013:05:2019%20-%20Practice%20on%20MLP/Practice%20on%20MLP%20.ipynb)
 #### Summary
-In this lesson, after learning how to load and execute a preliminary analysis on a real dataset, we will create an MLP model and introduce the concept of Dropout layers. Guided free experimentation will follow.
+In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/2%20-%2013:05:2019%20-%20Practice%20on%20MLP/Practice%20on%20MLP%20.ipynb), after learning how to load and execute a preliminary analysis on a real dataset, we will create an MLP model and introduce the concept of Dropout layers. Guided free experimentation will follow.
 
 ### 3 - 14/05/2019 - Lesson on CNN
 #### Summary
