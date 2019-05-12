@@ -12,14 +12,11 @@ To setup everything needed for the lessons, once you have python and git install
 ## Lessons
 ### 1 - 7/05/2019 - Lesson on MLP
 #### Summary
-In this lesson, we will learn how to use a multi-layer perceptron to predict the values of an arbitraty *unknown* function.
+In [this lesson](), we will learn how to use a multi-layer perceptron to predict the values of an arbitraty *unknown* function.
 
 ### 2 - 13/05/2019 - Practice on MLP
 #### Summary
-In this lesson, we will resolve three exercises:
-- We will create a simple MLP model
-- We will try different optimizers
-- We will try to predict different black box functions
+In this lesson, after learning how to load and execute a preliminary analysis on a real dataset, we will create an MLP model and introduce the concept of Dropout layers. Guided free experimentation will follow.
 
 ### 3 - 14/05/2019 - Lesson on CNN
 #### Summary
