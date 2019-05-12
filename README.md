@@ -50,3 +50,11 @@ This is a youtube channel with great animations which can show you in an enjoyab
 ## Tesla
 The presentation of how they cracked autonomous driving at Tesla:
 - [Tesla: autopilot day](https://www.youtube.com/watch?v=Ucp0TTmvqOE)
+
+## Welch labs
+A small video playplist on neural networks:
+- [Neural networks demistified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
+
+## CGP Grey
+A video showing how artificial intelligence will be taking our jobs way before it becomes sentient:
+- [Humans need not apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
