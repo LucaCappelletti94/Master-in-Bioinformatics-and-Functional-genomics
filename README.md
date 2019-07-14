@@ -18,21 +18,18 @@ In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-a
 #### Summary
 In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/2%20-%2013:05:2019%20-%20Practice%20on%20MLP/Practice%20on%20MLP%20.ipynb), after learning how to load and execute a preliminary analysis on a real dataset, we will create an MLP model and introduce the concept of Dropout layers. Guided free experimentation will follow.
 
-### 3 - 14/05/2019 - Lesson on CNN
+### [3 - 20/05/2019 - Lesson and practice on CNN](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/3%20-%2014:05:2019%20-%20Lesson%20on%20CNN/Lesson%20on%20CNN.ipynb)
 #### Summary
-In this lesson we will learn how to create a convolutional neural network that can learn patterns.
+In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/3%20-%2014:05:2019%20-%20Lesson%20on%20CNN/Lesson%20on%20CNN.ipynb) we will learn how to create a convolutional neural network that can learn patterns, afterwards we will proceed to create a neural network that repairs a pattern.
 
-### 4 - 20/05/2019 - Practice on CNN
+### 4 - 21/05/2019 - Lesson on prediction active regulatory regions
 #### Summary
-Work in progress...
+In this lesson we have practiced with the preparation of the active regulatory regions dataset (retrieving data, one-hot encoding data, quick dataset analysis, preparation of the labels for training) and used the data for training a simple MLP.
 
-### 5 - 21/05/2019 - Lesson on prediction active regulatory regions
+### 5 - 27/05/2019 - Creating, testing and deploying a neural network
 #### Summary
-Work in progress...
-
-### 6 - 27/05/2019 - Practice on active regulatory regions
-#### Summary
-Work in progress...
+In this lesson, in a step by step fashion, we created a MLP trained on the standard dataset Boston Housing and proceeded with guided experimentation in class with its model structure. Afterwards, a simple pytest test was created to test the model in a CI fashion.
+Finally, a simple example of the neural network deployment for production was shown.
 
 ## Additional materials
 In this brief course we could not touch as deeply as we would like to a number of topics, so here are a few links that any of you could explore. I tried to select only materials that I enjoyed and that I would love to watch again.
