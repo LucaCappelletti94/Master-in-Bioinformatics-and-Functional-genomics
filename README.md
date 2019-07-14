@@ -11,23 +11,23 @@ To setup everything needed for the lessons, once you have python and git install
 
 ## Lessons
 ### [1 - 7/05/2019 - Lesson on MLP](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/1%20-%207:05:2019%20-%20Lesson%20on%20MLP/Lesson%20on%20MLP.ipynb)
-#### Summary
+
 In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/1%20-%207:05:2019%20-%20Lesson%20on%20MLP/Lesson%20on%20MLP.ipynb), we will learn how to use a multi-layer perceptron to predict the values of an arbitraty *unknown* function.
 
 ### [2 - 13/05/2019 - Practice on MLP](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/2%20-%2013:05:2019%20-%20Practice%20on%20MLP/Practice%20on%20MLP%20.ipynb)
-#### Summary
+
 In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/2%20-%2013:05:2019%20-%20Practice%20on%20MLP/Practice%20on%20MLP%20.ipynb), after learning how to load and execute a preliminary analysis on a real dataset, we will create an MLP model and introduce the concept of Dropout layers. Guided free experimentation will follow.
 
 ### [3 - 20/05/2019 - Lesson and practice on CNN](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/3%20-%2014:05:2019%20-%20Lesson%20on%20CNN/Lesson%20on%20CNN.ipynb)
-#### Summary
+
 In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/3%20-%2014:05:2019%20-%20Lesson%20on%20CNN/Lesson%20on%20CNN.ipynb) we will learn how to create a convolutional neural network that can learn patterns, afterwards we will proceed to create a neural network that repairs a pattern.
 
 ### 4 - 21/05/2019 - Lesson on prediction active regulatory regions
-#### Summary
+
 In this lesson we have practiced with the preparation of the active regulatory regions dataset (retrieving data, one-hot encoding data, quick dataset analysis, preparation of the labels for training) and used the data for training a simple MLP.
 
 ### 5 - 27/05/2019 - Creating, testing and deploying a neural network
-#### Summary
+
 In this lesson, in a step by step fashion, we created a MLP trained on the standard dataset Boston Housing and proceeded with guided experimentation in class with its model structure. Afterwards, a simple pytest test was created to test the model in a CI fashion.
 Finally, a simple example of the neural network deployment for production was shown.
 
@@ -41,14 +41,14 @@ This is a youtube channel with great animations which can show you in an enjoyab
 - [Backpropagation - high level](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 - [Backpropagation - low level](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 
-## Tesla
+### Tesla
 The presentation of how they cracked autonomous driving at Tesla:
 - [Tesla: autopilot day](https://www.youtube.com/watch?v=Ucp0TTmvqOE)
 
-## Welch labs
+### Welch labs
 A small video playplist on neural networks:
 - [Neural networks demistified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
 
-## CGP Grey
+### CGP Grey
 A video showing how artificial intelligence will be taking our jobs way before it becomes sentient:
 - [Humans need not apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
