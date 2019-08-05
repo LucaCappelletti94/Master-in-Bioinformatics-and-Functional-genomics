@@ -48,6 +48,10 @@ The presentation of how they cracked autonomous driving at Tesla:
 A small video playplist on neural networks:
 - [Neural networks demistified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
 
+### Kurtzgesagt
+The rise of automation
+- [The Rise of the Machines – Why Automation is Different this Time](https://www.youtube.com/watch?v=WSKi8HfcxEk&t=27s)
+
 ### CGP Grey
 A video showing how artificial intelligence will be taking our jobs way before it becomes sentient:
 - [Humans need not apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
