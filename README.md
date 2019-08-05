@@ -6,25 +6,24 @@ To setup everything needed for the lessons, once you have python and git install
 ```bash
   git clone https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics.git
   cd Master-in-Bioinformatics-and-Functional-genomics
-  pip install -r requirements.txt
+  python -m pip install --upgrade -r requirements.txt
 ```
 
 ## Lessons
-### [1 - 7/05/2019 - Lesson on MLP](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/1%20-%207:05:2019%20-%20Lesson%20on%20MLP/Lesson%20on%20MLP.ipynb)
+### [1 - Lesson on MLP](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/tree/master/1%20-%20Lesson%20on%20MLP)
 
-In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/1%20-%207:05:2019%20-%20Lesson%20on%20MLP/Lesson%20on%20MLP.ipynb), we will learn how to use a multi-layer perceptron to predict the values of an arbitraty *unknown* function.
+In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/tree/master/1%20-%20Lesson%20on%20MLP), we will learn how to use a multi-layer perceptron to predict the values of an arbitraty *unknown* function.
 
-### [2 - 13/05/2019 - Practice on MLP](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/2%20-%2013:05:2019%20-%20Practice%20on%20MLP/Practice%20on%20MLP%20.ipynb)
+### [2 - Practice on MLP](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/tree/master/2%20-%20Practice%20on%20MLP)
 
-In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/2%20-%2013:05:2019%20-%20Practice%20on%20MLP/Practice%20on%20MLP%20.ipynb), after learning how to load and execute a preliminary analysis on a real dataset, we will create an MLP model and introduce the concept of Dropout layers. Guided free experimentation will follow.
+In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/tree/master/2%20-%20Practice%20on%20MLP), after learning how to load and execute a preliminary analysis on a real dataset, we will create an MLP model and introduce the concept of Dropout layers. Guided free experimentation will follow.
 
-### [3 - 20/05/2019 - Lesson and practice on CNN](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/3%20-%2014:05:2019%20-%20Lesson%20on%20CNN/Lesson%20on%20CNN.ipynb)
+### [3 - Lesson and practice on CNN](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/tree/master/3%20-%20Lesson%20on%20CNN)
 
-In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/blob/master/3%20-%2014:05:2019%20-%20Lesson%20on%20CNN/Lesson%20on%20CNN.ipynb) we will learn how to create a convolutional neural network that can learn patterns, afterwards we will proceed to create a neural network that repairs a pattern.
+In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/tree/master/3%20-%20Lesson%20on%20CNN) we will learn how to create a convolutional neural network that can learn patterns, afterwards we will proceed to create a neural network that repairs a pattern.
 
-### 4 - 21/05/2019 - Lesson on prediction active regulatory regions
-
-In this lesson we have practiced with the preparation of the active regulatory regions dataset (retrieving data, one-hot encoding data, quick dataset analysis, preparation of the labels for training) and used the data for training a simple MLP.
+### [4 - Lesson on prediction active regulatory regions](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/tree/master/4%20-%20Lesson%20on%20prediction%20active%20regulatory%20regions)
+In [this lesson](https://github.com/LucaCappelletti94/Master-in-Bioinformatics-and-Functional-genomics/tree/master/4%20-%20Lesson%20on%20prediction%20active%20regulatory%20regions) we have practiced with the preparation of the active regulatory regions dataset (retrieving data, one-hot encoding data, quick dataset analysis, preparation of the labels for training) and used the data for training a simple MLP.
 
 ### 5 - 27/05/2019 - Creating, testing and deploying a neural network
 
