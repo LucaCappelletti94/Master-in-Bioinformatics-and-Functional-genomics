@@ -8,3 +8,5 @@ keras-tqdm
 matplotlib
 jupyter
 plot_keras_history
+ucsc_genomes_downloader
+fasta_one_hot_encoder
